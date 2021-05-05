@@ -1,0 +1,2 @@
+# SEARCH-ENGINE
+In this project we have tried to create a search engine that allows user to search the subject book with a keyword. Then as a normal search engine does, it searches the data from its data base. For that we have used mongoDB to create out data base and then link it to java so that our search engine provides the search details with the keyword mentioned. This project also has a login page for the admin to log in which will then redirect it to a home page when we can insert, remove or delete anything from the database. 
